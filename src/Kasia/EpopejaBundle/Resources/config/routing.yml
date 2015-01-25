@@ -1,0 +1,3 @@
+kasia_epopeja_homepage:
+    path:     /PanTadeusz
+    defaults: { _controller: KasiaEpopejaBundle:Default:index }

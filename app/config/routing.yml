@@ -1,0 +1,8 @@
+kasia_epopeja:
+    resource: "@KasiaEpopejaBundle/Resources/config/routing.yml"
+    prefix:   /
+
+kasia_hello:
+    resource: "@KasiaHelloBundle/Resources/config/routing.yml"
+    prefix:   /hw
+
